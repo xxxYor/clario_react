@@ -1,0 +1,25 @@
+
+.validation-text {
+    color: #4A4E71;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 138.462%;
+    margin-bottom: 4px;
+}
+
+.is-text-valid {
+    color: #27B274;
+}
+
+.validation-container {
+    padding-left: 20px;
+}
+
+.button-holder {
+    padding: 0 37px;
+}
+
+.is-text-invalid {
+    color: #FF8080;
+}
